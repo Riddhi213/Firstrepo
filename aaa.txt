@@ -1,4 +1,1 @@
-hello 
-good morning 
-
-good evening 
+hello good morning good evening afternoon 
